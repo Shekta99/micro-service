@@ -6,7 +6,8 @@
   "author": "Sergio Marentes <sergiomarentes705@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@netlify/functions": "^1.0.0"
+    "@netlify/functions": "^1.0.0",
+    "node-fetch": "^3.2.0"
   },
   "devDependencies": {
     "netlify-cli": "^9.6.10",
