@@ -1,0 +1,8 @@
+{
+  "name": "micro-service-example",
+  "version": "1.0.0",
+  "description": "micro service whit netlify",
+  "main": "index.js",
+  "author": "Sergio Marentes <sergiomarentes705@gmail.com>",
+  "license": "MIT"
+}
